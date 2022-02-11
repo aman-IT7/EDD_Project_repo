@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <esp32cam.h>
 
-const char* WIFI_SSID = "Aman's Network";
-const char* WIFI_PASS = "tFV3FRjPSH8";
+const char* WIFI_SSID = "NETWORK";
+const char* WIFI_PASS = "PASSWORD";
 
 WebServer server(80);
 
